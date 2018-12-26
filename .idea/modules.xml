@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DiasporaAndroid.iml" filepath="$PROJECT_DIR$/DiasporaAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Diaspora-Android.iml" filepath="$PROJECT_DIR$/Diaspora-Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
